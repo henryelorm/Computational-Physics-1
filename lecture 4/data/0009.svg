@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20">
+      <path
+         d="m 6176,0 h 772 V 1100 H 6176 V 0"
+         clip-rule="evenodd"
+         id="path18" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath30">
+      <path
+         d="m 6176,38 h 772 V 1062 H 6176 V 38"
+         clip-rule="evenodd"
+         id="path28" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath296">
+      <path
+         d="M 0,0 H 612 V 792 H 0 Z"
+         id="path294" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath306">
+      <path
+         d="M 0,0 H 556.72003 V 66.239998 H 0 Z"
+         id="path304" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath312">
+      <path
+         d="M 0,0 H 556.72003 V 66.239998 H 0 Z"
+         id="path310" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath316">
+      <path
+         d="M 28,274.32001 H 584.72003 V 340.56 H 28 Z"
+         id="path314" />
+    </clipPath>
+  </defs>
+  <g
+     id="g8"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,1056)">
+    <g
+       id="g10"
+       transform="matrix(0.720207,0,0,-0.72,28,792)">
+      <g
+         id="g12" />
+      <g
+         id="g14"
+         transform="translate(-6176)">
+        <g
+           id="g16"
+           clip-path="url(#clipPath20)">
+          <g
+             id="g22" />
+        </g>
+      </g>
+      <g
+         id="g24"
+         transform="translate(-6176)">
+        <g
+           id="g26"
+           clip-path="url(#clipPath30)">
+          <text
+             xml:space="preserve"
+             transform="translate(6176,56)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text34"><tspan
+               x="0 11 21 27 33 43 58 64 73 82 87 96 103 112 117 122 131 140 145 153 163 177 186 191 201 207 212 217 226 235 240 249 259 269 275 281 290 299 304 310 320 329 337 342 357 366 375 382 391"
+               y="0"
+               id="tspan32">Following	are	the	some	of	the	applications	where	</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6572,56)"
+             style="font-style:italic;font-variant:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text38"><tspan
+               x="0 10 16 26 36 44 53 58 64 71 80 89"
+               y="0"
+               id="tspan36">binary	trees</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6669,56)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text42"><tspan
+               x="0 5 15 21 30 39 44 53 62 67 73 87 97 107 114 119 128 137 142 147 154 164 170 179"
+               y="0"
+               id="tspan40">	play	an	important	role:</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6230,91)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text46"><tspan
+               x="0"
+               y="0"
+               id="tspan44">•</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6278,91)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text50"><tspan
+               x="0 12 21 31 38 47 55 63 69 79 88 93 98 105 114 123 131 136 145 152 161 166 175 183 192 202 207 213 222 227 236 246 260 270 276 282 291 298 306"
+               y="0"
+               id="tspan48">Expression	trees	are	used	in	compilers.</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6230,114)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text54"><tspan
+               x="0"
+               y="0"
+               id="tspan52">•</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6278,114)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text58"><tspan
+               x="0 14 23 29 35 49 58 67 72 81 91 101 107 116 125 130 135 142 151 160 168 173 178 187 196 201 206 215 222 231 236 245 253 262 272 277 283 292 297 307 316 321 330 335 344 354 368 378 385 394 402 410 416 426 435 440 449 455 464 474 481 487 492 501 515 523"
+               y="0"
+               id="tspan56">Huffman	coding	trees	that	are	used	in	data	compression	algorithms.</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6230,137)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text62"><tspan
+               x="0"
+               y="0"
+               id="tspan60">•</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6278,137)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text66"><tspan
+               x="0 13 19 28 37 44 53 63.078121 74.078117 83.078117 92.078117 99.078117 108.07812 117.07812 127.17187 138.17188 145.17188 154.17188 163.17188 173.26562 180.26562 193.26562 204.26562 216.26562 223.26562 228.26562 238.35938 253.35938 262.35938 268.35938 277.35938 286.35938 296.45312 304.45312 313.45312 323.45312 333.45312 343.45312 350.45312 355.45312 363.45312 373.53125 381.53125 390.53125 399.53125 406.53125 415.53125 424.53125 429.53125 439.625 445.625 454.625 462.625 471.625 478.625 483.625 489.625 499.625 508.625 518.71875 527.71875 536.71875 546.71875 556.8125 566.8125 575.8125 581.8125 590.8125 595.8125 601.8125 611.8125 620.8125 630.90625 640.90625 649.90625 659.98438"
+               y="0"
+               id="tspan64">Binary	Search	Tree	(BST),	which	supports	search,	insertion	and	deletion	on	a</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6284,160)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text70"><tspan
+               x="0 9 19 25 31 40 49 54 60 70 79 84 94 100 105 111 116 125 139 147 152 158 167 172 186"
+               y="0"
+               id="tspan68">collection	of	items	in	O(</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6477,160)"
+             style="font-style:italic;font-variant:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text74"><tspan
+               x="0 6 16 26"
+               y="0"
+               id="tspan72">logn</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6513,160)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text78"><tspan
+               x="0 7 12 19 28 38 47 54 63 72 81 88"
+               y="0"
+               id="tspan76">)	(average).</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6230,183)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text82"><tspan
+               x="0"
+               y="0"
+               id="tspan80">•</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6278,183)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text86"><tspan
+               x="0 11 18 24 34 41 47 52 61 66.625 80.625 89.625 98.625 107.625 116.625 122.26562 129.26562 140.26562 154.26562 161.26562 166.26562 171.90625 186.90625 195.90625 201.90625 210.90625 219.90625 225.53125 233.53125 242.53125 252.53125 262.53125 272.53125 279.53125 284.53125 292.53125 298.17188 306.17188 315.17188 324.17188 331.17188 340.17188 349.17188 354.8125 363.8125 372.8125 382.8125 388.45312 398.45312 407.45312 413.45312 422.45312 427.45312 433.45312 443.45312 452.45312 458.07812 468.07812 474.07812 479.71875 493.71875 499.71875 508.71875 514.71875 528.71875 537.71875 551.71875 557.35938 564.35938 574.35938 581.35938 586.98438 600.98438 609.98438 618.98438 624.98438 638.98438 647.98438 661.98438"
+               y="0"
+               id="tspan84">Priority	Queue	(PQ),	which	supports	search	and	deletion	of	minimum	(or	maximum)</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6284,206)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text90"><tspan
+               x="0 10 19 24 33 38 47 57 63 69 78 87 92 98 108 117 122 132 138 143 149 154 163 177 185 190 196 205 210 216 226 235 244 251 257 262 271 285 291 300 305 310 316 330 339 344 351 357 366 371 386 396 403 411 416 421 430 439 447 456 463"
+               y="0"
+               id="tspan88">on	a	collection	of	items	in	logarithmic	time	(in	worst	case).</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6176,278)"
+             style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text94"><tspan
+               x="0 12 18 30 36 52 57 70 82 92 103 109 122 132 143 154 160 173 183 195 206 217 227 236 248 253"
+               y="0"
+               id="tspan92">6.6	Binary	Tree	Traversals</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6176,325)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text98"><tspan
+               x="0 6 15 20.75 30.75 37.75 47.75 56.75 63.75 69.515625 74.515625 84.515625 90.28125 100.28125 107.28125 117.28125 126.28125 135.28125 143.28125 151.28125 157.04688 162.04688 169.04688 178.04688 187.04688 195.04688 200.04688 205.8125 220.8125 229.8125 235.57812 244.57812 253.57812 262.57812 272.57812 278.34375 287.34375 293.10938 307.10938 316.10938 325.10938 334.10938 343.10938 352.10938 358.10938 366.10938 380.10938 385.875 391.875 401.875 408.875 414.64062 419.64062 426.64062 435.64062 445.64062 454.64062 461.64062 469.64062 475.64062 484.64062 493.64062 499.40625 504.40625 513.40625 522.40625 536.40625 541.40625 547.17188 556.17188 565.17188 575.17188 580.9375 585.9375 594.9375 603.9375 608.9375 614.70312 620.70312 630.70312 637.70312 651.70312 659.70312 665.46875 670.46875 679.46875 688.46875 694.23438 702.23438 711.23438 721.23438 727.23438 736.23438 745.23438 750.23438 756 766"
+               y="0"
+               id="tspan96">In	order	to	process	trees,	we	need	a	mechanism	for	traversing	them,	and	that	forms	the	subject	of</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6176,348)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text102"><tspan
+               x="0 5 14 20 28 35.6875 43.6875 52.6875 61.6875 66.6875 72.6875 82.6875 91.6875 96.6875 104.375 116.375 125.375 134.375 142.0625 152.0625 159.0625 169.0625 178.0625 187.0625 195.0625 203.0625 210.76562 220.76562 226.76562 234.45312 244.45312 250.45312 258.45312 264.45312 269.45312 275.45312 284.45312 293.45312 301.14062 310.14062 316.14062 322.14062 329.84375 338.84375 348.84375 358.84375 367.84375 375.84375 383.53125 393.53125 399.53125 407.21875 416.21875 423.92188 428.92188 435.92188 444.92188 453.92188 461.60938 467.60938 475.60938 483.29688 492.29688 501.29688 507.29688 513.29688 522.29688 532.29688"
+               y="0"
+               id="tspan100">this	section.	The	process	of	visiting	all	nodes	of	a	tree	is	called	</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6716,348)"
+             style="font-style:italic;font-variant:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text106"><tspan
+               x="0 6 13 22 31 38 44 52 62 71 80 88 96 106"
+               y="0"
+               id="tspan104">tree	traversal</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6828,348)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text110"><tspan
+               x="0 5 13 25 34 43 52 60 69 79 89 98 106 112"
+               y="0"
+               id="tspan108">.	Each	node	is</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6176,371)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text114"><tspan
+               x="0 10 17 27 36 45 53 61 70 80 85.328125 95.328125 104.32812 110.32812 119.32812 124.65625 134.65625 143.65625 152.65625 161.65625 167 177 186 191 196.32812 202.32812 207.32812 212.65625 226.65625 235.65625 244.65625 249.98438 260 269 274.32812 284.32812 290.32812 298.32812 304.32812 309.32812 318.32812 328.32812 333.65625 347.65625 357.65625 364.65625 373.65625 379 384 393 402 411 416.32812 426.32812 435.32812 444.32812 453.32812 458.32812 463.65625 477.65625 485.65625 491 506 515 520.32812 529.32812 538.32812 548.32812 557.32812 562.65625 571.65625 577.65625 584.65625 593.65625 602.65625 612.65625 621.65625 627 635 644 653 662 667.32812 673.32812 682.32812 687.65625 693.65625 699.65625 708.65625 717.65625 726.65625 733.65625 738.98438 748.98438 757.98438 762.98438"
+               y="0"
+               id="tspan112">processed	only	once	but	it	may	be	visited	more	than	once.	As	we	have	already	seen	in	linear	data</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6176,394)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text118"><tspan
+               x="0 8 13 20 29 38 43 52 59 68 76 81.34375 88.34375 94.34375 100.34375 109.34375 118.34375 123.70312 129.70312 135.70312 144.70312 153.70312 162.70312 172.70312 178.0625 184.0625 190.0625 198.0625 203.0625 211.0625 216.0625 221.42188 229.42188 234.42188 243.42188 252.42188 261.42188 269.42188 274.42188 279.78125 289.78125 298.78125 307.78125 316.78125 325.78125 333.78125 338.78125 344.14062 353.14062 358.14062 367.14062 372.14062 379.14062 384.14062 389.5 394.5 403.5 412.5 417.84375 426.84375 432.84375 441.84375 455.84375 464.84375 473.84375 478.84375 486.84375 492.20312 501.20312 508.20312 517.20312 522.5625 532.5625 538.5625 546.5625 552.5625 557.5625 566.5625 576.5625 581.92188 587.92188 596.92188 602.28125 610.28125 619.28125 629.28125 638.28125 647.28125 656.28125 661.28125 667.28125 676.28125 682.28125 687.64062 697.64062 704.64062 714.64062 723.64062 729.64062 734.64062 739.98438 752.98438 761.98438 766.98438"
+               y="0"
+               id="tspan116">structures	(like	linked	lists,	stacks,	queues,	etc.),	the	elements	are	visited	in	sequential	order.	But,</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6176,417)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text122"><tspan
+               x="0 6 15 20 25 32 41 50 55 63 68 75 84 93 98 107 114 123 131 136 141 150 159 166 175 180 189 196 205 210 224 233 242 251 256 266 272 278 284 293 300 309 318 323 328 343 352 361 369"
+               y="0"
+               id="tspan120">in	tree	structures	there	are	many	different	ways.</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6176,463)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text126"><tspan
+               x="0 11 18 27 36 42.75 47.75 54.75 63.75 73.75 82.75 89.75 97.75 106.75 112.75 119.51562 125.51562 133.51562 140.28125 146.28125 152.28125 161.28125 170.28125 177.04688 185.04688 194.04688 203.04688 210.04688 219.04688 228.04688 234.04688 243.04688 252.04688 258.8125 263.8125 272.8125 281.8125 288.57812 293.57812 300.57812 309.57812 318.57812 323.57812 330.34375 339.34375 348.34375 357.34375 366.34375 376.34375 381.34375 388.10938 393.10938 402.10938 411.10938 416.10938 422.875 428.875 437.875 444.64062 449.64062 456.64062 465.64062 475.64062 484.64062 491.64062 499.64062 508.64062 514.64062 521.40625 526.40625 535.40625 544.40625 551.17188 560.17188 570.17188 579.17188 585.17188 591.9375 597.9375 605.9375 612.70312 617.70312 627.70312 634.46875 648.46875 658.46875 668.46875 677.46875 684.23438 689.23438 698.23438 705.23438 715.23438 724.23438 733.23438 742.23438 749 754 763"
+               y="0"
+               id="tspan124">Tree	traversal	is	like	searching	the	tree,	except	that	in	traversal	the	goal	is	to	move	through	the</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6176,486)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text130"><tspan
+               x="0 5 12 21 30 38 44 53 61 70 78 88 97 104 109 115 124 133 139 148 155 163 173 180 190 199 205 210 218 224 233 241 250 260 270 276 281 287 297 306 311 319 328 334 340 348 357 367 377 386 394 402 411 418 427 435 445 452 462 471 480 488 496 505 515 523 529 538 546 551 560 569"
+               y="0"
+               id="tspan128">tree	in	a	particular	order.	In	addition,	all	nodes	are	processed	in	the	</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6753,486)"
+             style="font-style:italic;font-variant:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text134"><tspan
+               x="0 6 14 24 33 42 50 58 68 74 82 92 102 108 116 124 133 143 150 159 169 175 185"
+               y="0"
+               id="tspan132">traversal	but	searching</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6176,509)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text138"><tspan
+               x="0 8 13 23 33 41 46 61 70 79 88 93 98 107 116 121 128 137 147 156 162 169 178 188 193 202 212 222 231 236 242 250 255 261 271 280 289 299"
+               y="0"
+               id="tspan136">stops	when	the	required	node	is	found.</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6176,574)"
+             style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text142"><tspan
+               x="0 13 23 35 46 57 67 76 88 93 99 114 126 135 144 149 162 167 172 177 185 190 201"
+               y="0"
+               id="tspan140">Traversal	Possibilities</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6176,621)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text146"><tspan
+               x="0 11 16 25 32 37 43 52 61 66.3125 75.3125 80.3125 85.625 90.625 99.625 108.625 113.9375 120.9375 130.9375 140.9375 145.9375 151.25 161.25 167.25 172.57812 181.57812 186.89062 196.89062 202.89062 211.89062 220.89062 227.89062 236.89062 242.20312 247.20312 254.20312 263.20312 272.20312 277.20312 282.51562 287.51562 296.51562 305.51562 312.51562 321.51562 326.82812 335.82812 342.82812 351.82812 357.15625 362.15625 371.15625 378.15625 387.15625 396.15625 401.46875 415.46875 424.46875 430.46875 439.46875 444.78125 452.78125 457.78125 466.78125 476.78125 484.78125 490.09375 495.09375 504.09375 513.09375 518.09375 523.40625 532.40625 541.40625 550.40625 555.73438 565.73438 574.73438 580.04688 590.04688 599.04688 606.04688 612.04688 622.04688 629.04688 643.04688 652.04688 662.04688 667.35938 676.35938 685.35938 695.35938 700.67188 705.67188 714.67188 723.67188 729 739 746 756 765"
+               y="0"
+               id="tspan144">Starting	at	the	root	of	a	binary	tree,	there	are	three	main	steps	that	can	be	performed	and	the	order</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6176,644)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text150"><tspan
+               x="0 6 15 21.125 36.125 45.125 51.125 60.125 69.125 75.265625 80.265625 89.265625 98.265625 107.26562 113.39062 122.39062 129.39062 138.39062 144.53125 154.53125 163.53125 170.53125 176.53125 186.53125 193.53125 207.53125 216.53125 226.53125 232.65625 242.65625 251.65625 257.65625 263.65625 272.65625 281.65625 289.65625 295.79688 300.79688 309.79688 318.79688 324.92188 329.92188 336.92188 345.92188 355.92188 364.92188 371.92188 379.92188 388.92188 394.92188 401.0625 406.0625 415.0625 425.0625 434.0625 439.0625 445.1875 457.1875 466.1875 475.1875 483.1875 492.1875 498.32812 506.32812 511.32812 520.32812 530.32812 538.32812 544.45312 553.45312 560.45312 569.45312 575.45312 581.59375 591.59375 600.59375 607.59375 613.59375 623.59375 630.59375 644.59375 650.59375 659.59375 668.59375 674.71875 683.71875 692.71875 698.85938 707.85938 716.85938 721.85938 727.85938 737.85938 746.85938 753 763"
+               y="0"
+               id="tspan148">in	which	they	are	performed	defines	the	traversal	type.	These	steps	are:	performing	an	action	on</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6176,667)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text154"><tspan
+               x="0 5 14 23 29.15625 38.15625 47.15625 54.15625 61.15625 70.15625 79.15625 84.15625 90.328125 99.328125 109.32812 119.32812 128.32812 134.5 141.5 148.5 157.5 163.5 172.5 179.5 186.5 195.5 205.5 211.65625 216.65625 226.65625 232.82812 241.82812 249.82812 256 265 275 281 289 295 300 306 315 324 333 339.15625 344.15625 353.15625 362.15625 368.32812 377.32812 387.32812 397.32812 406.32812 412.48438 421.48438 430.48438 440.48438 446.65625 456.65625 465.65625 474.65625 484.65625 489.65625 498.65625 508.65625 514.82812 529.82812 535.82812 540.82812 549.82812"
+               y="0"
+               id="tspan152">the	current	node	(referred	to	as	“visiting”	the	node	and	denoted	with	</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6732,667)"
+             style="font-style:italic;font-variant:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text158"><tspan
+               x="0 11 25"
+               y="0"
+               id="tspan156">“D”</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6768,667)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text162"><tspan
+               x="0 7 12 18.25 23.25 30.25 39.25 49.25 58.25 65.25 73.25 79.25 88.25 97.25 103.5 108.5 118.5 124.75 129.75 138.75 147.75 154 160 169 175"
+               y="0"
+               id="tspan160">),	traversing	to	the	left</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6176,690)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text166"><tspan
+               x="0 9 18 24 30 40 47.25 56.25 66.25 76.25 85.25 92.5 99.5 109.5 118.5 127.5 137.5 142.5 151.5 161.5 168.75 183.75 189.75 194.75 203.75 211"
+               y="0"
+               id="tspan164">child	node	(denoted	with	“</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6396,690)"
+             style="font-style:italic;font-variant:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text170"><tspan
+               x="0"
+               y="0"
+               id="tspan168">L</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6407,690)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text174"><tspan
+               x="0 9 16 21 28.1875 37.1875 46.1875 56.1875 63.390625 68.390625 75.390625 84.390625 94.390625 103.39062 110.39062 118.39062 124.39062 133.39062 142.39062 149.59375 154.59375 164.59375 171.79688 176.79688 185.79688 194.79688 201.98438 208.98438 214.98438 223.98438 232.98438 237.98438 245.1875 254.1875 263.1875 269.1875 275.1875 285.1875 292.39062 301.39062 311.39062 321.39062 330.39062 337.59375 344.59375 354.59375 363.59375 372.59375 382.59375 387.59375 396.59375 406.59375 413.79688 428.79688 434.79688 439.79688 448.79688 456"
+               y="0"
+               id="tspan172">”),	and	traversing	to	the	right	child	node	(denoted	with	“</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6872,690)"
+             style="font-style:italic;font-variant:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text178"><tspan
+               x="0"
+               y="0"
+               id="tspan176">R</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6884,690)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text182"><tspan
+               x="0 9 16 21 29 41 50 56"
+               y="0"
+               id="tspan180">”).	This</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6176,713)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text186"><tspan
+               x="0 10 17 27 36 45 53 61 69.140625 78.140625 87.140625 96.140625 104.28125 114.28125 123.28125 131.42188 140.42188 149.42188 157.42188 163.42188 169.42188 178.42188 186.5625 196.5625 205.5625 213.5625 222.5625 229.5625 235.5625 245.5625 254.5625 264.5625 272.70312 277.70312 286.70312 293.70312 303.70312 312.70312 321.70312 330.70312 338.84375 345.84375 354.84375 363.84375 372.84375 379.84375 387.84375 393.84375 403.84375 412.84375 417.84375 425.98438 438.98438 447.98438 455.98438 464.98438 474.98438 483.14062 493.14062 502.14062 510.28125 515.28125 524.28125 533.28125 541.42188 550.42188 560.42188 570.42188 580.42188 589.42188 597.5625 607.5625 616.5625 622.5625 628.5625 637.5625 643.5625 648.5625 654.5625 664.5625 673.5625 681.70312 686.70312 695.70312 704.70312 711.70312 720.70312 728.84375 737.84375 744.84375 753.84375 762"
+               y="0"
+               id="tspan184">process	can	be	easily	described	through	recursion.	Based	on	the	above	definition	there	are	6</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6176,736)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text190"><tspan
+               x="0 10 20 28 36 42 52 58 64 70 75 81 90 98"
+               y="0"
+               id="tspan188">possibilities:</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6230,759)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text194"><tspan
+               x="0 10"
+               y="0"
+               id="tspan192">1.</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6271,759)"
+             style="font-style:italic;font-variant:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text198"><tspan
+               x="0 11 25 37"
+               y="0"
+               id="tspan196">LDR:</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6315,759)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text202"><tspan
+               x="0 9.578125 20.578125 27.578125 37.578125 46.578125 55.578125 63.578125 71.578125 81.15625 87.15625 96.15625 102.15625 107.15625 116.75 124.75 133.75 143.75 148.75 155.75 164.75 173.75 178.75 188.32812 198.32812 205.32812 215.32812 224.32812 233.32812 241.32812 249.32812 258.90625 263.90625 272.90625 281.90625 291.5 300.5 309.5 316.5 323.5 332.5 341.5 346.5 356.07812 365.07812 375.07812 385.07812 394.07812 403.65625 413.65625 422.65625 427.65625 436.65625 446.25 455.25 464.25 474.25 483.82812 488.82812 497.82812 506.82812 515.82812 525.40625 535.40625 542.40625 552.40625 561.40625 570.40625 578.40625 586.40625 596 603 609 618 627"
+               y="0"
+               id="tspan200">	Process	left	subtree,	process	the	current	node	data	and	then	process	right</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6284,782)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text206"><tspan
+               x="0 8 17 27 32 39 48"
+               y="0"
+               id="tspan204">subtree</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6230,805)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text210"><tspan
+               x="0 10"
+               y="0"
+               id="tspan208">2.</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6271,805)"
+             style="font-style:italic;font-variant:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text214"><tspan
+               x="0 11 23 37"
+               y="0"
+               id="tspan212">LRD:</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6315,805)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text218"><tspan
+               x="0 7.578125 18.578125 25.578125 35.578125 44.578125 53.578125 61.578125 69.578125 77.15625 83.15625 92.15625 98.15625 103.15625 110.75 118.75 127.75 137.75 142.75 149.75 158.75 167.75 172.75 180.32812 190.32812 197.32812 207.32812 216.32812 225.32812 233.32812 241.32812 248.90625 255.90625 261.90625 270.90625 279.90625 284.90625 292.5 300.5 309.5 319.5 324.5 331.5 340.5 349.5 357.07812 366.07812 375.07812 385.07812 392.65625 397.65625 406.65625 415.65625 424.65625 432.25 442.25 449.25 459.25 468.25 477.25 485.25 493.25 500.82812 505.82812 514.82812 523.82812 531.40625 540.40625 549.40625 556.40625 563.40625 572.40625 581.40625 586.40625 594 603 613 623"
+               y="0"
+               id="tspan216">	Process	left	subtree,	process	right	subtree	and	then	process	the	current	node</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6284,828)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text222"><tspan
+               x="0 10 19 24"
+               y="0"
+               id="tspan220">data</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6230,851)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text226"><tspan
+               x="0 10"
+               y="0"
+               id="tspan224">3.</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6271,851)"
+             style="font-style:italic;font-variant:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text230"><tspan
+               x="0 14 25 37"
+               y="0"
+               id="tspan228">DLR:</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6315,851)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text234"><tspan
+               x="0 9.578125 20.578125 27.578125 37.578125 46.578125 55.578125 63.578125 71.578125 81.15625 86.15625 95.15625 104.15625 113.75 122.75 131.75 138.75 145.75 154.75 163.75 168.75 178.32812 187.32812 197.32812 207.32812 216.32812 225.90625 235.90625 244.90625 249.90625 258.90625 263.90625 273.5 283.5 290.5 300.5 309.5 318.5 326.5 334.5 344.07812 350.07812 359.07812 365.07812 370.07812 379.65625 387.65625 396.65625 406.65625 411.65625 418.65625 427.65625 436.65625 446.25 455.25 464.25 474.25 483.82812 488.82812 497.82812 506.82812 515.82812 525.40625 535.40625 542.40625 552.40625 561.40625 570.40625 578.40625 586.40625 596 603 609 618 627"
+               y="0"
+               id="tspan232">	Process	the	current	node	data,	process	left	subtree	and	then	process	right</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6284,874)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text238"><tspan
+               x="0 8 17 27 32 39 48"
+               y="0"
+               id="tspan236">subtree</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6230,897)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text242"><tspan
+               x="0 10"
+               y="0"
+               id="tspan240">4.</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6271,897)"
+             style="font-style:italic;font-variant:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text246"><tspan
+               x="0 14 26 37"
+               y="0"
+               id="tspan244">DRL:</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6315,897)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text250"><tspan
+               x="0 9.578125 20.578125 27.578125 37.578125 46.578125 55.578125 63.578125 71.578125 81.15625 86.15625 95.15625 104.15625 113.75 122.75 131.75 138.75 145.75 154.75 163.75 168.75 178.32812 187.32812 197.32812 207.32812 216.32812 225.90625 235.90625 244.90625 249.90625 258.90625 263.90625 273.5 283.5 290.5 300.5 309.5 318.5 326.5 334.5 344.07812 351.07812 357.07812 366.07812 375.07812 380.07812 389.65625 397.65625 406.65625 416.65625 421.65625 428.65625 437.65625 446.65625 456.25 465.25 474.25 484.25 493.82812 498.82812 507.82812 516.82812 525.82812 535.40625 545.40625 552.40625 562.40625 571.40625 580.40625 588.40625 596.40625 606 612 621 627"
+               y="0"
+               id="tspan248">	Process	the	current	node	data,	process	right	subtree	and	then	process	left</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6284,920)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text254"><tspan
+               x="0 8 17 27 32 39 48"
+               y="0"
+               id="tspan252">subtree</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6230,943)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text258"><tspan
+               x="0 10"
+               y="0"
+               id="tspan256">5.</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6271,943)"
+             style="font-style:italic;font-variant:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text262"><tspan
+               x="0 12 26 37"
+               y="0"
+               id="tspan260">RDL:</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6315,943)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text266"><tspan
+               x="0 9.578125 20.578125 27.578125 37.578125 46.578125 55.578125 63.578125 71.578125 81.15625 88.15625 94.15625 103.15625 112.15625 117.15625 126.75 134.75 143.75 153.75 158.75 165.75 174.75 183.75 188.75 198.32812 208.32812 215.32812 225.32812 234.32812 243.32812 251.32812 259.32812 268.90625 273.90625 282.90625 291.90625 301.5 310.5 319.5 326.5 333.5 342.5 351.5 356.5 366.07812 375.07812 385.07812 395.07812 404.07812 413.65625 423.65625 432.65625 437.65625 446.65625 456.25 465.25 474.25 484.25 493.82812 498.82812 507.82812 516.82812 525.82812 535.40625 545.40625 552.40625 562.40625 571.40625 580.40625 588.40625 596.40625 606 612 621 627"
+               y="0"
+               id="tspan264">	Process	right	subtree,	process	the	current	node	data	and	then	process	left</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6284,966)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text270"><tspan
+               x="0 8 17 27 32 39 48"
+               y="0"
+               id="tspan268">subtree</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6230,989)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text274"><tspan
+               x="0 10"
+               y="0"
+               id="tspan272">6.</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6271,989)"
+             style="font-style:italic;font-variant:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text278"><tspan
+               x="0 12 23 37"
+               y="0"
+               id="tspan276">RLD:</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6315,989)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text282"><tspan
+               x="0 7.578125 18.578125 25.578125 35.578125 44.578125 53.578125 61.578125 69.578125 77.15625 84.15625 90.15625 99.15625 108.15625 113.15625 120.75 128.75 137.75 147.75 152.75 159.75 168.75 177.75 182.75 190.32812 200.32812 207.32812 217.32812 226.32812 235.32812 243.32812 251.32812 258.90625 264.90625 273.90625 279.90625 284.90625 292.5 300.5 309.5 319.5 324.5 331.5 340.5 349.5 357.07812 366.07812 375.07812 385.07812 392.65625 397.65625 406.65625 415.65625 424.65625 432.25 442.25 449.25 459.25 468.25 477.25 485.25 493.25 500.82812 505.82812 514.82812 523.82812 531.40625 540.40625 549.40625 556.40625 563.40625 572.40625 581.40625 586.40625 594 603 613 623"
+               y="0"
+               id="tspan280">	Process	right	subtree,	process	left	subtree	and	then	process	the	current	node</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(6284,1012)"
+             style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Liberation Serif';-inkscape-font-specification:LiberationSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text286"><tspan
+               x="0 10 19 24"
+               y="0"
+               id="tspan284">data</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g288">
+      <g
+         id="g290">
+        <g
+           id="g292"
+           clip-path="url(#clipPath296)">
+          <g
+             id="g298"
+             transform="translate(28,274.32001)">
+            <g
+               id="g300">
+              <g
+                 id="g302"
+                 clip-path="url(#clipPath306)">
+                <g
+                   id="g308" />
+                <g
+                   id="g332">
+                  <g
+                     clip-path="url(#clipPath312)"
+                     id="g330">
+                    <g
+                       transform="translate(-28,-274.32001)"
+                       id="g328">
+                      <g
+                         clip-path="url(#clipPath316)"
+                         id="g326">
+                        <path
+                           d="m 28,324 v 16.56 H 584.72001 V 324"
+                           style="fill:#fff066;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="path318" />
+                        <path
+                           d="M 28,307.44 V 324 h 556.40312 v -16.56"
+                           style="fill:#fff066;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="path320" />
+                        <path
+                           d="m 28,290.88 v 16.56 h 555.84136 v -16.56"
+                           style="fill:#fff066;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="path322" />
+                        <path
+                           d="m 28,274.32 v 16.56 h 88.70159 v -16.56"
+                           style="fill:#fff066;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="path324" />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
